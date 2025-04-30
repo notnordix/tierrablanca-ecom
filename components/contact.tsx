@@ -89,7 +89,6 @@ export default function Contact() {
                 <a
                   href="https://instagram.com/tierrablanca.ma"
                   target="_blank"
-                  target="_blank"
                   rel="noopener noreferrer"
                   className="text-xs sm:text-sm text-gray-600 mt-1 hover:text-[#415e5a] transition-colors block"
                   aria-label="Visitez notre profil Instagram @tierrablanca.ma"
