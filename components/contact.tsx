@@ -84,8 +84,6 @@ export default function Contact() {
               <Instagram className="w-5 h-5 text-[#415e5a] mt-0.5" />
               <div>
                 <h4 className="text-sm sm:text-base font-medium text-gray-900">Instagram</h4>
-              </div>
-              <div>
                 <a
                   href="https://instagram.com/tierrablanca.ma"
                   target="_blank"
