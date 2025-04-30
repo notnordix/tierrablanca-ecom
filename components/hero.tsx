@@ -63,12 +63,12 @@ export default function Hero() {
           className="max-w-xs sm:max-w-sm md:max-w-lg lg:max-w-2xl"
         >
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-serif font-bold text-white leading-tight mb-3 sm:mb-4">
-            Élégance. Authenticité.
+            Elegance. Authenticite.
           </h1>
           <p className="text-base sm:text-lg md:text-xl text-white/90 mb-2">
             Articles exclusifs. Design artisanal unique TierraBlanca
           </p>
-          <p className="text-base sm:text-lg md:text-xl text-white/90 mb-6">Fabriqué au Maroc</p>
+          <p className="text-base sm:text-lg md:text-xl text-white/90 mb-6">Fabrique au Maroc</p>
           <motion.a
             href="#products"
             onClick={scrollToProducts}
@@ -76,7 +76,7 @@ export default function Hero() {
             whileTap={{ scale: 0.95 }}
             className="inline-flex items-center px-4 py-2 sm:px-6 sm:py-3 bg-[#415e5a] text-white rounded-md text-sm sm:text-base font-medium hover:bg-[#5a7d79] transition-colors group"
           >
-            Découvrir Notre Collection
+            Decouvrir Notre Collection
             <ArrowRight className="ml-2 h-3 w-3 sm:h-4 sm:w-4 transition-transform group-hover:translate-x-1" />
           </motion.a>
         </motion.div>

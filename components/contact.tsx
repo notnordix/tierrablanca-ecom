@@ -42,7 +42,7 @@ export default function Contact() {
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-serif font-bold text-[#415e5a] mb-3">Contactez-Nous</h2>
           <div className="w-16 sm:w-24 h-1 bg-[#415e5a] mx-auto mb-4"></div>
           <p className="text-sm sm:text-base text-gray-600 max-w-3xl mx-auto">
-            Intéressé par nos produits ou vous avez des questions? Nous serions ravis de vous entendre.
+            Interesse par nos produits ou vous avez des questions? Nous serions ravis de vous entendre.
           </p>
         </motion.div>
 
@@ -69,7 +69,7 @@ export default function Contact() {
             <div className="flex items-start space-x-3">
               <Phone className="w-5 h-5 text-[#415e5a] mt-0.5" />
               <div>
-                <h4 className="text-sm sm:text-base font-medium text-gray-900">Téléphone</h4>
+                <h4 className="text-sm sm:text-base font-medium text-gray-900">Telephone</h4>
                 <a
                   href="tel:+212643874852"
                   className="text-xs sm:text-sm text-gray-600 mt-1 hover:text-[#415e5a] transition-colors block"
@@ -129,13 +129,13 @@ export default function Contact() {
 
               <div>
                 <label htmlFor="phone" className="block text-xs sm:text-sm font-medium text-gray-700 mb-1">
-                  Numéro de Téléphone
+                  Numero de Telephone
                 </label>
                 <input
                   type="tel"
                   id="phone"
                   className="w-full px-3 py-2 text-sm border border-gray-300 rounded-md focus:ring-[#415e5a] focus:border-[#415e5a] outline-none transition"
-                  placeholder="Votre numéro de téléphone"
+                  placeholder="Votre numero de telephone"
                 />
               </div>
 
