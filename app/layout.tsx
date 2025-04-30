@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     "céramiques minimalistes",
   ],
   openGraph: {
-    title: "TierraBlanca | Artisanat Marocain Moderne",
+    title: "TierraBlanca",
     description:
       "Découvrez les céramiques exclusives en argile blanche de TierraBlanca du Maroc. Le design moderne rencontre la tradition artisanale.",
     images: [
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "TierraBlanca | Artisanat Marocain Moderne",
+    title: "TierraBlanca",
     description:
       "Découvrez les céramiques exclusives en argile blanche de TierraBlanca du Maroc. Le design moderne rencontre la tradition artisanale.",
     images: ["https://images.unsplash.com/photo-1615874959474-d609969a20ed?q=80&w=2080&auto=format&fit=crop"],
